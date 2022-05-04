@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1610388384 source:e:\code\zzxcczxc\graphic project\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+
+1610567638 source:e:\code\zzxcczxc\graphic project edit\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<sstream>
+
+1610775106 source:e:\code\zzxcczxc\graphic project edit2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<sstream>
+
+1610775106 source:c:\users\«·„Â‰œ”\desktop\hindi\graphic project edit2\main.cpp
+	<tchar.h>
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<cmath>
+	<iostream>
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<sstream>
+
